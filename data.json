@@ -1,0 +1,232 @@
+{
+  "people": {
+    "result": [
+      {
+        "url": "https://staff.yandex-team.ru/robot-support-taxi",
+        "click_urls": [
+          "//clck.yandex.ru/click/dtype=SAAS/p=0/saas_url=https%3A%2F%2Fstaff.yandex-team.ru%2Frobot-support-taxi/robot=0/r=%25D0%25A1%25D0%25B0%25D0%25BF%25D1%2582%25D0%25B5%25D1%2585/service=intrasearch-people/kps=83324/uid=is1120000001160651/yandexuid=is1120000001160651/reqid=1746285238672038-5761568003159115675-saas-searchproxy-stable-vla-25-SAAS-intrasearch-people/raId=54BC1CDFA7BA6B08/slots=1247473,0,88;1211159,0,23/how=rlv/*data=url%3Dhttps%3A%2F%2Fstaff.yandex-team.ru%2Frobot-support-taxi"
+        ],
+        "layer": "people",
+        "id": "robot-support-taxi",
+        "title": "Робот Саптеха",
+        "staff_id": 25462,
+        "uid": "1120000000050978",
+        "login": "robot-support-taxi",
+        "name": {
+          "first": "Робот",
+          "last": "Саптеха",
+          "middle": ""
+        },
+        "is_dismissed": false,
+        "affiliation": "external",
+        "is_robot": true,
+        "is_memorial": false,
+        "staff_agreement": false
+      },
+      {
+        "url": "https://staff.yandex-team.ru/vtitoff",
+        "click_urls": [
+          "//clck.yandex.ru/click/dtype=SAAS/p=1/saas_url=https%3A%2F%2Fstaff.yandex-team.ru%2Fvtitoff/robot=0/r=%25D0%25A1%25D0%25B0%25D0%25BF%25D1%2582%25D0%25B5%25D1%2585/service=intrasearch-people/kps=83324/uid=is1120000001160651/yandexuid=is1120000001160651/reqid=1746285238672038-5761568003159115675-saas-searchproxy-stable-vla-25-SAAS-intrasearch-people/raId=54BC1CDFA7BA6B08/slots=1247473,0,88;1211159,0,23/how=rlv/*data=url%3Dhttps%3A%2F%2Fstaff.yandex-team.ru%2Fvtitoff"
+        ],
+        "layer": "people",
+        "id": "vtitoff",
+        "title": "Владислав Титов",
+        "staff_id": 35759,
+        "uid": "1120000000086183",
+        "login": "vtitoff",
+        "name": {
+          "first": "Владислав",
+          "last": "Титов",
+          "middle": ""
+        },
+        "is_dismissed": false,
+        "affiliation": "yandex",
+        "is_robot": false,
+        "is_memorial": false,
+        "staff_agreement": true
+      },
+      {
+        "url": "https://staff.yandex-team.ru/popchenko-vs",
+        "click_urls": [
+          "//clck.yandex.ru/click/dtype=SAAS/p=2/saas_url=https%3A%2F%2Fstaff.yandex-team.ru%2Fpopchenko-vs/robot=0/r=%25D0%25A1%25D0%25B0%25D0%25BF%25D1%2582%25D0%25B5%25D1%2585/service=intrasearch-people/kps=83324/uid=is1120000001160651/yandexuid=is1120000001160651/reqid=1746285238672038-5761568003159115675-saas-searchproxy-stable-vla-25-SAAS-intrasearch-people/raId=54BC1CDFA7BA6B08/slots=1247473,0,88;1211159,0,23/how=rlv/*data=url%3Dhttps%3A%2F%2Fstaff.yandex-team.ru%2Fpopchenko-vs"
+        ],
+        "layer": "people",
+        "id": "popchenko-vs",
+        "title": "Владислав Попченко",
+        "staff_id": 151948,
+        "uid": "1120000000303838",
+        "login": "popchenko-vs",
+        "name": {
+          "first": "Владислав",
+          "last": "Попченко",
+          "middle": ""
+        },
+        "is_dismissed": false,
+        "affiliation": "external",
+        "is_robot": false,
+        "is_memorial": false,
+        "staff_agreement": false
+      },
+      {
+        "url": "https://staff.yandex-team.ru/lyle",
+        "click_urls": [
+          "//clck.yandex.ru/click/dtype=SAAS/p=3/saas_url=https%3A%2F%2Fstaff.yandex-team.ru%2Flyle/robot=0/r=%25D0%25A1%25D0%25B0%25D0%25BF%25D1%2582%25D0%25B5%25D1%2585/service=intrasearch-people/kps=83324/uid=is1120000001160651/yandexuid=is1120000001160651/reqid=1746285238672038-5761568003159115675-saas-searchproxy-stable-vla-25-SAAS-intrasearch-people/raId=54BC1CDFA7BA6B08/slots=1247473,0,88;1211159,0,23/how=rlv/*data=url%3Dhttps%3A%2F%2Fstaff.yandex-team.ru%2Flyle"
+        ],
+        "layer": "people",
+        "id": "lyle",
+        "title": "Тамерлан Саркитов",
+        "staff_id": 82208,
+        "uid": "1120000000225353",
+        "login": "lyle",
+        "name": {
+          "first": "Тамерлан",
+          "last": "Саркитов",
+          "middle": ""
+        },
+        "is_dismissed": false,
+        "affiliation": "yandex",
+        "is_robot": false,
+        "is_memorial": false,
+        "staff_agreement": true
+      },
+      {
+        "url": "https://staff.yandex-team.ru/dyshekov",
+        "click_urls": [
+          "//clck.yandex.ru/click/dtype=SAAS/p=4/saas_url=https%3A%2F%2Fstaff.yandex-team.ru%2Fdyshekov/robot=0/r=%25D0%25A1%25D0%25B0%25D0%25BF%25D1%2582%25D0%25B5%25D1%2585/service=intrasearch-people/kps=83324/uid=is1120000001160651/yandexuid=is1120000001160651/reqid=1746285238672038-5761568003159115675-saas-searchproxy-stable-vla-25-SAAS-intrasearch-people/raId=54BC1CDFA7BA6B08/slots=1247473,0,88;1211159,0,23/how=rlv/*data=url%3Dhttps%3A%2F%2Fstaff.yandex-team.ru%2Fdyshekov"
+        ],
+        "layer": "people",
+        "id": "dyshekov",
+        "title": "Мухамед Дышеков",
+        "staff_id": 154414,
+        "uid": "1120000000315708",
+        "login": "dyshekov",
+        "name": {
+          "first": "Мухамед",
+          "last": "Дышеков",
+          "middle": ""
+        },
+        "is_dismissed": false,
+        "affiliation": "yandex",
+        "is_robot": false,
+        "is_memorial": false,
+        "staff_agreement": true
+      },
+      {
+        "url": "https://staff.yandex-team.ru/v-a-babenko",
+        "click_urls": [
+          "//clck.yandex.ru/click/dtype=SAAS/p=5/saas_url=https%3A%2F%2Fstaff.yandex-team.ru%2Fv-a-babenko/robot=0/r=%25D0%25A1%25D0%25B0%25D0%25BF%25D1%2582%25D0%25B5%25D1%2585/service=intrasearch-people/kps=83324/uid=is1120000001160651/yandexuid=is1120000001160651/reqid=1746285238672038-5761568003159115675-saas-searchproxy-stable-vla-25-SAAS-intrasearch-people/raId=54BC1CDFA7BA6B08/slots=1247473,0,88;1211159,0,23/how=rlv/*data=url%3Dhttps%3A%2F%2Fstaff.yandex-team.ru%2Fv-a-babenko"
+        ],
+        "layer": "people",
+        "id": "v-a-babenko",
+        "title": "Владислав Бабенко",
+        "staff_id": 77305,
+        "uid": "1120000000203815",
+        "login": "v-a-babenko",
+        "name": {
+          "first": "Владислав",
+          "last": "Бабенко",
+          "middle": ""
+        },
+        "is_dismissed": false,
+        "affiliation": "external",
+        "is_robot": false,
+        "is_memorial": false,
+        "staff_agreement": true
+      },
+      {
+        "url": "https://staff.yandex-team.ru/itakinrovodis",
+        "click_urls": [
+          "//clck.yandex.ru/click/dtype=SAAS/p=6/saas_url=https%3A%2F%2Fstaff.yandex-team.ru%2Fitakinrovodis/robot=0/r=%25D0%25A1%25D0%25B0%25D0%25BF%25D1%2582%25D0%25B5%25D1%2585/service=intrasearch-people/kps=83324/uid=is1120000001160651/yandexuid=is1120000001160651/reqid=1746285238672038-5761568003159115675-saas-searchproxy-stable-vla-25-SAAS-intrasearch-people/raId=54BC1CDFA7BA6B08/slots=1247473,0,88;1211159,0,23/how=rlv/*data=url%3Dhttps%3A%2F%2Fstaff.yandex-team.ru%2Fitakinrovodis"
+        ],
+        "layer": "people",
+        "id": "itakinrovodis",
+        "title": "Никита Сидоров",
+        "staff_id": 443366,
+        "uid": "1120000000704539",
+        "login": "itakinrovodis",
+        "name": {
+          "first": "Никита",
+          "last": "Сидоров",
+          "middle": ""
+        },
+        "is_dismissed": false,
+        "affiliation": "external",
+        "is_robot": false,
+        "is_memorial": false,
+        "staff_agreement": true
+      },
+      {
+        "url": "https://staff.yandex-team.ru/rmoroz123",
+        "click_urls": [
+          "//clck.yandex.ru/click/dtype=SAAS/p=7/saas_url=https%3A%2F%2Fstaff.yandex-team.ru%2Frmoroz123/robot=0/r=%25D0%25A1%25D0%25B0%25D0%25BF%25D1%2582%25D0%25B5%25D1%2585/service=intrasearch-people/kps=83324/uid=is1120000001160651/yandexuid=is1120000001160651/reqid=1746285238672038-5761568003159115675-saas-searchproxy-stable-vla-25-SAAS-intrasearch-people/raId=54BC1CDFA7BA6B08/slots=1247473,0,88;1211159,0,23/how=rlv/*data=url%3Dhttps%3A%2F%2Fstaff.yandex-team.ru%2Frmoroz123"
+        ],
+        "layer": "people",
+        "id": "rmoroz123",
+        "title": "Роман Морозов",
+        "staff_id": 36789,
+        "uid": "1120000000089097",
+        "login": "rmoroz123",
+        "name": {
+          "first": "Роман",
+          "last": "Морозов",
+          "middle": ""
+        },
+        "is_dismissed": false,
+        "affiliation": "external",
+        "is_robot": false,
+        "is_memorial": false,
+        "staff_agreement": true
+      },
+      {
+        "url": "https://staff.yandex-team.ru/gomotyuk-m",
+        "click_urls": [
+          "//clck.yandex.ru/click/dtype=SAAS/p=8/saas_url=https%3A%2F%2Fstaff.yandex-team.ru%2Fgomotyuk-m/robot=0/r=%25D0%25A1%25D0%25B0%25D0%25BF%25D1%2582%25D0%25B5%25D1%2585/service=intrasearch-people/kps=83324/uid=is1120000001160651/yandexuid=is1120000001160651/reqid=1746285238672038-5761568003159115675-saas-searchproxy-stable-vla-25-SAAS-intrasearch-people/raId=54BC1CDFA7BA6B08/slots=1247473,0,88;1211159,0,23/how=rlv/*data=url%3Dhttps%3A%2F%2Fstaff.yandex-team.ru%2Fgomotyuk-m"
+        ],
+        "layer": "people",
+        "id": "gomotyuk-m",
+        "title": "Максим Гомотюк",
+        "staff_id": 385975,
+        "uid": "1120000000569621",
+        "login": "gomotyuk-m",
+        "name": {
+          "first": "Максим",
+          "last": "Гомотюк",
+          "middle": ""
+        },
+        "is_dismissed": false,
+        "affiliation": "yandex",
+        "is_robot": false,
+        "is_memorial": false,
+        "staff_agreement": true
+      },
+      {
+        "url": "https://staff.yandex-team.ru/androsow2",
+        "click_urls": [
+          "//clck.yandex.ru/click/dtype=SAAS/p=9/saas_url=https%3A%2F%2Fstaff.yandex-team.ru%2Fandrosow2/robot=0/r=%25D0%25A1%25D0%25B0%25D0%25BF%25D1%2582%25D0%25B5%25D1%2585/service=intrasearch-people/kps=83324/uid=is1120000001160651/yandexuid=is1120000001160651/reqid=1746285238672038-5761568003159115675-saas-searchproxy-stable-vla-25-SAAS-intrasearch-people/raId=54BC1CDFA7BA6B08/slots=1247473,0,88;1211159,0,23/how=rlv/*data=url%3Dhttps%3A%2F%2Fstaff.yandex-team.ru%2Fandrosow2"
+        ],
+        "layer": "people",
+        "id": "androsow2",
+        "title": "Артур Андросов",
+        "staff_id": 192274,
+        "uid": "1120000000333610",
+        "login": "androsow2",
+        "name": {
+          "first": "Артур",
+          "last": "Андросов",
+          "middle": ""
+        },
+        "is_dismissed": false,
+        "affiliation": "external",
+        "is_robot": false,
+        "is_memorial": false,
+        "staff_agreement": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "per_page": 10,
+      "pages": 68,
+      "count": 673
+    }
+  }
+}
